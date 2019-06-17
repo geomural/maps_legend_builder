@@ -1,5 +1,5 @@
 # maps_legend_builder
-This module allows to create correct legend on the map. The result is a table with legends. 
+This module allows to create correct LEGEND on the WEB MAP. The result is a table with legends. 
 
 You can use 10 functions to create maps legend from the maps_legend_builder.js:
 
